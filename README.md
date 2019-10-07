@@ -182,12 +182,11 @@
 |  [Zillow](http://careers.zillowgroup.com/ShowJob/Id/355556/Software%20Development%20Engineer%20%20%20Intern) | Seattle, San Francisco | Present
 |  [Lob](https://boards.greenhouse.io/lob/jobs/1862312) | San Francisco, CA | Present | Completion of your junior year of BS/BA (or first year of MS) in Computer Science or a related field by the start of Summer 2020 OR the completion of a coding bootcamp. |
 |  [TripActions](https://tripactions.com/job-openings) | Palo Alto, CA; San Francisco, CA | Present | BS or MS in Computer Science or Computer Engineering Graduation Year: 2021 |
-|  [Box](https://careers.box.com/job/1862637/Software-Engineering-Intern-Summer-2020) | Redwood City, CA | Present | Graduating between December 2020-June 2021 with a BA/BS, majoring in Computer Science or a related field. |
-|  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present |
-|  [Ironclad](https://jobs.lever.co/ironcladapp/7dc69333-8b40-40d9-b1c1-b8165471d88c) | San Francisco, CA | Present |
-|  [Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=1871040) | San Francisco, CA | Present | Currently pursuing a Bachelor's/Master’s degree in Computer Science (or equivalent) with expected graduation in 2021 |
-|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Present | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. |
-|  [Convoy](https://jobs.lever.co/convoy/63403442-d175-4f25-9521-d8ee4121433b) | Seattle, WA | Present | Currently working toward a degree in Computer Science, with a graduation date in 2021. |
+|  [Box](https://careers.box.com/job/1862637/Software-Engineering-Intern-Summer-2020) | Redwood City, CA | Present | Graduating between December 2020-June 2021 with a BA/BS, majoring in Computer Science or a related field. | Yes |
+|  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present | | Yes|
+|  [Ironclad](https://jobs.lever.co/ironcladapp/7dc69333-8b40-40d9-b1c1-b8165471d88c) | San Francisco, CA | Present | | Yes|
+|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Present | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. | Yes|
+|  [Convoy](https://jobs.lever.co/convoy/63403442-d175-4f25-9521-d8ee4121433b) | Seattle, WA | Present | Currently working toward a degree in Computer Science, with a graduation date in 2021. | Yes|
 |  [Fivestars](https://boards.greenhouse.io/fivestars/jobs/1874507) | San Francisco, CA | Present |
-|  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |
+|  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms | Yes|
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | |Yes
