@@ -114,7 +114,7 @@
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=599939) | Washington, DC | Recruitment on a rolling basis until the position is filled |
 |  [WillowTree](https://www.willowtreeapps.com/careers/jobs/4381004002/software-engineer-intern) | Charlottesville, VA | Present | Graduating in 2021 or 2022 |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs) | Various in US, Canada, China | Present |
-|  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |\
+|  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |
 |  [Benchling](https://www.benchling.com/careers/?gh_jid=1843932#detail) | San Francisco, CA | Present |
 |  [Garmin](https://garmin.taleo.net/careersection/garmin+career+section/jobsearch.ftl) | Various in US | Present | Seperate application for each location, part-time internships availible |
 |  [CTRL-Lab](https://jobs.lever.co/ctrl-labs/9218edb0-e31a-452c-8949-66d59e40423c) | New York, NY | Present |
@@ -132,7 +132,7 @@
 |  [Crowdstrike](https://www.crowdstrike.com/careers/job-listings/) | El Segundo, California; Irvine, California | Present |
 |  [Aurora](https://aurora.tech/jobs/?gh_jid=4237844002) | Pittsburgh, PA | Present | MS or PhD in Robotics, Computer Science, EE, MechE, or related field highly preferred |
 |  [Hudson River Trading](http://www.hudson-trading.com/careers/) | New York, Chicago | Present |
-|  [Airbnb](https://careers.airbnb.com/positions/1815030/) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Java, Scala, Ruby and/or Ruby on Rails, C++, SQL, or HTML/CSS and Javascript |
+|  [Airbnb](https://careers.airbnb.com/positions/1815030/) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Java, Scala, Ruby and/or Ruby on Rails, C++, SQL, or HTML/CSS and Javascript | Yes |
 |  [Flatiron](https://flatiron.com/careers/open-positions/1805778) | New York City, NY | Present | Juniors+ |
 |  [Kiva](https://boards.greenhouse.io/kivaorg/jobs/1845233) | San Francisco, CA and Portland, OR | Present | Freshmen and Sophomores ONLY |
 |  [SigOpt](https://jobs.lever.co/sigopt/141cec90-5ff0-46dc-8e99-02760d3e0f2d) | San Francisco, CA | Present | Prefers engineering internship or professional experience and strong programming ability it at least one language |
