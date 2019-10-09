@@ -158,7 +158,7 @@
 |  [New Relic](http://jobs.jobvite.com/newrelic/job/oJHXafwh) | Phoenix, AZ; San Francisco, CA; Portland, OR | Present | Visa sponsorship is not available; Prefers experience with Java, C#, Ruby, Python, or Go as well as Javascript and frameworks |
 |  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
 |  [MongoDB](https://www.mongodb.com/careers/jobs/1855372?gh_src=0wcvpq1) | New York, NY | Present |
-|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present | Yes |
+|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present | | Yes |
 |  [Tubular Labs](https://jobs.lever.co/tubularlabs/f3907864-0713-4fe0-b70d-4859b54d2d5e) | Mountain View, CA | Present | Currently pursuing a degree in ComputerScience or related technical field with a planned graduation date by summer of 2021. | Yes |
 |  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present | | Yes |
 |  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present | | Yes |
