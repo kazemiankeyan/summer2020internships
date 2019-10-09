@@ -158,11 +158,11 @@
 |  [New Relic](http://jobs.jobvite.com/newrelic/job/oJHXafwh) | Phoenix, AZ; San Francisco, CA; Portland, OR | Present | Visa sponsorship is not available; Prefers experience with Java, C#, Ruby, Python, or Go as well as Javascript and frameworks |
 |  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
 |  [MongoDB](https://www.mongodb.com/careers/jobs/1855372?gh_src=0wcvpq1) | New York, NY | Present |
-|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present |
-|  [Tubular Labs](https://jobs.lever.co/tubularlabs/f3907864-0713-4fe0-b70d-4859b54d2d5e) | Mountain View, CA | Present | Currently pursuing a degree in ComputerScience or related technical field with a planned graduation date by summer of 2021. |
-|  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present |
-|  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present |
-|  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments |
+|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present | Yes |
+|  [Tubular Labs](https://jobs.lever.co/tubularlabs/f3907864-0713-4fe0-b70d-4859b54d2d5e) | Mountain View, CA | Present | Currently pursuing a degree in ComputerScience or related technical field with a planned graduation date by summer of 2021. | Yes |
+|  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present | | Yes |
+|  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present | | Yes |
+|  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments | Yes |
 |  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present | | Yes |
 |  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present | | Yes |
 |  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present | | Yes |
