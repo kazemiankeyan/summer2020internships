@@ -21,12 +21,12 @@
 |  [Matco Tools](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27]) | Stow, OH | Present | Juniors+, prefers Java programming skills
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
-|  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
+|  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. | Yes |
 |   [The Vanguard Group](https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925) | Malvern, PA and Charlotte, NC | Present  | 3.0 GPA Preferred, Software Development, Technology Operations  |
 |  [Leidos](https://careers.leidos.com/search/intern/jobs) | McLean, VA and Morgantown, WV| Present |
 | [Los Alamos National Lab](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw..)  | Los Alamos, NM  | due September 30 | Min. GPA 3.0 Coverletter Required  |
 |  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
-|  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
+|  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present | | Yes |
 |  [Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-us/mobile-0/brand-2/xf-88b1eb77da85/candidate/so/pm/1/pl/1/opp/8319/apply/en-us) | New York, NY | Present | Min. GPA 3.0, prefers C, C++, Java or C# programming skills
 |  [Houston Mechatronics](https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y) | Webster, TX | Present | US Citizenship is required; Prefers robotics experience, Linux command line, and Python programming language
 |  [Optiver](https://www.optiver.com/na/en/job-opportunities/us-4315469002) | Chicago | Present | Prefers C, C++, Java or C# programming skills; No sponsorship
@@ -163,14 +163,14 @@
 |  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present |
 |  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present |
 |  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments |
-|  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present |
-|  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present |
-|  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present |
-|  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present |
-|  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present |
-|  [Cambly](https://jobs.lever.co/cambly/21350d5c-8ef0-4284-8348-8d3218d24ecd) | San Francisco, CA | Present | Currently enrolled in a Computer Science degree program with at least 3 years of study completed. |
-|  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). |
-|  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
+|  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present | | Yes |
+|  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present | | Yes |
+|  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present | | Yes |
+|  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present | | Yes |
+|  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present | | Yes |
+|  [Cambly](https://jobs.lever.co/cambly/21350d5c-8ef0-4284-8348-8d3218d24ecd) | San Francisco, CA | Present | Currently enrolled in a Computer Science degree program with at least 3 years of study completed. | Yes |
+|  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). | Yes |
+|  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 | Yes |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present | | Yes |
 |  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. | Yes |
 | [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present | | Yes |
