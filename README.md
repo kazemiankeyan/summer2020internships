@@ -44,12 +44,12 @@
 |  [Dropbox](https://www.dropbox.com/jobs/listing/1810089/apply?gh_src=aonhf1) | San Francisco, Seattle, New York | Present |
 |  [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?t=edd9906d1) | Provo, Seattle | Present |
 |  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
-|  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
+|  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD) | Yes |
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present
 |  [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982) | New York | Present
 |  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago | Present
 |  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
-|  [Atlassian](https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b) | Mountain View, CA | Present | Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021 |
+|  [Atlassian](https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b) | Mountain View, CA | Present | Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021 | Yes |
 |  [Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2020/1786/12562814) | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | Present | Bachelor’s degree or higher obtained between December 2020 and August 2021 |
 |  [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship) | San Francisco | Present |
 |  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |  
@@ -99,7 +99,7 @@
 |  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
 |  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
 |  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |
-|  [Bloomberg](https://careers.bloomberg.com/job/detail/76852) | New York, NY | Present | Have programming experience in C, C++, Java or Python, Have a minimum GPA of 3.0, Be working toward a BA, BS, MS or PhD in Computer Science | | Yes |
+|  [Bloomberg](https://careers.bloomberg.com/job/detail/76852) | New York, NY | Present | Have programming experience in C, C++, Java or Python, Have a minimum GPA of 3.0, Be working toward a BA, BS, MS or PhD in Computer Science | Yes |
 |  [Yext](https://boards.greenhouse.io/embed/job_app?token=1808516) | New York, NY | Present |
 |  [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/job/ocL89fwY) | Santa Clara, CA | Present | To apply, you must be pursuing a 4-year Undergraduate Degree with a GPA of 3.0 or above, a 2-year Master’s Degree or a Doctorate degree and returning to school in the fall. You must have the authorization to work within the United States. |
 |  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
