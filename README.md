@@ -180,7 +180,7 @@ To contribute:
 |  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present | | Yes |
 |  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments | Yes |
 |  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present | | Yes |
-|  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present | | Yes |
+|  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present | | Yes | Received |
 |  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present | | Yes |
 |  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present | | Yes |
 |  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present | | Yes |
@@ -188,7 +188,7 @@ To contribute:
 |  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). | Yes |
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 | Yes |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present | | Yes |
-|  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. | Yes |
+|  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. | Yes | None Yet | Video Interview |
 | [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present | | Yes |
 | [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward | Yes |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=Intern&department=1) | Multiple Cities | Present | | Yes |
@@ -213,7 +213,7 @@ To contribute:
 |  [Tinder](https://www.gotinder.com/jobs/apply?gh_jid=1866819) | Los Angeles, San Francisco, Palo Alto, CA | Present |
 |  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present |
 |  [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-indianapolis-in-usa-8) | Indianapolis, IN | Present |
-| [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix|
+| [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix | Yes | N/A | Video Interview | No |
 |  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 |
 |  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students. |
 |  [The Teamworthy Fellowship](https://www.teamworthy.com/teamworthy-fellowship) | New York, Austin, Boston, Chicago, DC, Denver, Los Angeles, New York City, Salt Lake City, San Francisco, and Saskatoon (Canada) | We accept applications on a rolling basis until May 1, 2020. |
@@ -228,7 +228,7 @@ To contribute:
 |  [The Washington Post](https://hosted-washpost.submissionplatform.com/sub/hosted/56427121208965c923528efd) | Washington D.C. | Present |
 |  [Southwest Airlines](https://careers.southwestair.com/job/31163/Technology-Software-Engineer-Intern-Summer-2020) | Dallas, TX | Present |
 |  [Neeva](https://jobs.lever.co/neeva/93e622dc-0cd6-4bfe-91f0-f67aedb97e53) | Mountain View, CA | Present |
-|  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present |
+|  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present | | Yes |
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |
 |[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
