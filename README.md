@@ -214,8 +214,8 @@ To contribute:
 |  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present |
 |  [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-indianapolis-in-usa-8) | Indianapolis, IN | Present |
 | [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix | Yes | N/A | Video Interview | No |
-|  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 |
-|  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students. | Yes |
+|  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 | | Yes |
+|  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students.
 |  [The Teamworthy Fellowship](https://www.teamworthy.com/teamworthy-fellowship) | New York, Austin, Boston, Chicago, DC, Denver, Los Angeles, New York City, Salt Lake City, San Francisco, and Saskatoon (Canada) | We accept applications on a rolling basis until May 1, 2020. |
 |  [Hacker Fellows](https://www.hackerfellows.com/) | Ann Arbor, Michigan | Present |
 |  [Handshake](https://www.joinhandshake.com/join-us/) | Denver, CO; San Francisco, CA | Present |
