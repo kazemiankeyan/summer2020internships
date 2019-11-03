@@ -122,7 +122,7 @@ To contribute:
 |  [Lucid Software](https://www.golucid.co/careers/c689ce29-c74a-48d5-854f-f9dbc82a350e/?team=Internships) | Salt Lake City, UT | Present | Must be pursuing technical degree. |
 |  [Coursera](https://jobs.lever.co/coursera/6dc86ebb-ac85-4e63-ab61-25aaee9ec45d) | Mountain View | Present | We are looking for rising juniors and seniors for our summer internship programs. The programs are highly competitive, so apply as soon as you know you are available. |
 |  [Asana](https://asana.com/jobs/university-recruiting#jobs-listings) | San Francisco, New York | Present
-|  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field
+|  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field | Yes |
 |  [Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | San Francisco, Denver, Irvine, Redwood City | Present |
 |  [Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Intern---Summer-2020----Seattle--WA---San-Francisco--CA---Frisco--TX_23752) | San Francisco, Seattle | Present |
 |  [Affirm](https://jobs.lever.co/affirm/5340f1d3-cd6d-44ef-a5c6-f9def8609d02) | San Francisco | Present |
@@ -188,7 +188,7 @@ To contribute:
 |  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). | Yes |
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 | Yes |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present | | Yes |
-|  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. | Yes | None Yet | Video Interview |
+|  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. | Yes | None Yet | Video Interview | No |
 | [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present | | Yes | Received |
 | [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward | Yes |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=Intern&department=1) | Multiple Cities | Present | | Yes |
@@ -232,3 +232,19 @@ To contribute:
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |
 |[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+|[Red Hat](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505) |Various, remote available |Present|Various positions from DevOps to SWE to UX, does not provide housing stipend |
+|  [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/) | San Franciso, CA | Present |
+|  [Relativity](https://jobs.lever.co/relativity/d17dcf2a-eebd-40de-b715-0a0e9db8bc87) | Chicago, IL | Present |
+|  [Braintree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |
+|  [ByteDance](https://job.bytedance.com/en/job?functions=&locations=&position=&keyword=intern&offset=0) | Various across the world | Present |
+|  [Intuit](https://uscareers-intuit.icims.com/jobs/search?ss=1&searchKeyword=intern) | Mountain View, San Diego | Present
+|  [Lytx](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Software-Engineer-Intern_R-633) | San Diego | Present |
+|  [Podium](https://hire.withgoogle.com/public/jobs/podiumcom/view/P_AAAAAACAAEnJeSNEIEUO0f) | Lehi, UT | Present |
+|  [Propeller](https://boards.greenhouse.io/propellerhealth/jobs/50761?gh_src=o7hkam) | Madison, San Francisco | Present |
+|  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
+|  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
+|  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
+|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
+|  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present
+|  [RBC](https://jobs.rbc.com/ca/en/amplify) | Toronto, ON | Present | Graduating in 2020, 2021 |
+|  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/owego/software-engineering-intern/694/13093474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Owego, NY | Present | Must have at least a 3.0 GPA, Must be able to obtain an interim secret clearance prior to start, and must be able to obtain and maintain a security clearance|
